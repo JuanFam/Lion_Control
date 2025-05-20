@@ -43,3 +43,13 @@ A planilha foi construída para ser uma solução amigável, funcional e robusta
 ## 🚀 Como Usar
 
 1. Faça o download do projeto ou clone este repositório:
+
+---
+## 🧠 Considerações Finais
+
+Esse desafio foi uma excelente oportunidade para consolidar o aprendizado, transformar teoria em prática e criar uma ferramenta real que pode ser usada por qualquer pessoa que queira ter mais controle sobre sua vida fiscal.
+
+---
+
+📅 *Projeto desenvolvido em [2025]
+🎓 *Aluno: [Juan Felipe - Juanfam]*
