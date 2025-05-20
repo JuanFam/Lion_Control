@@ -43,6 +43,9 @@ A planilha foi construída para ser uma solução amigável, funcional e robusta
 ## 🚀 Como Usar
 
 1. Faça o download do projeto ou clone este repositório:
+```bash
+   git clone https://github.com/JuanFam/Lion_Control.git
+```
 
 ---
 ## 🧠 Considerações Finais
